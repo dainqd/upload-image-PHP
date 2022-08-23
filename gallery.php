@@ -8,7 +8,7 @@
     <title>My Portfolio</title>
     <meta name="viewport" content="with=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
 <header>
